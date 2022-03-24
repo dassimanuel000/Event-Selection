@@ -1,4 +1,4 @@
-#  EVENT SUMMER UI App Flutter
+#  EVENT APP FOR SOCIAL OR  SUMMER  UI App Flutter
 
 ## Built By
 
